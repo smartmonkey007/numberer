@@ -1,1 +1,1 @@
-web: /bin redstoneserver.dart
+web: ./bin/redstoneserver.dart
